@@ -62,12 +62,19 @@ Trabalhar com entrada de dados e validação.
 ====== Seja muito bem vindo ao Banco Java ======
 
 O que deseja fazer?
+
 1 - Criar Conta
+
 2 - Depositar
+
 3 - Sacar
+
 4 - Transferir
+
 5 - Consultar saldo
+
 6 - Checar dados da conta
+
 7 - Sair
 
 Matheus Gobetti
