@@ -31,19 +31,17 @@ Estrutura de pacotes (models, services, main);
 🚀 Como executar:
 Clone o repositório:
 
-bash
-Copiar
-Editar
 git clone https://github.com/seu-usuario/sistema-bancario-java.git
+
 cd sistema-bancario-java
+
 Compile e execute com um IDE (Eclipse, IntelliJ, VS Code)
 ou use o terminal:
 
-bash
-Copiar
-Editar
 javac -d bin src/**/*.java
+
 java -cp bin main.Main
+
 
 🧠 Objetivos do projeto:
 Praticar lógica de programação;
